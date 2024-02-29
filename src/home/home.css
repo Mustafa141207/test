@@ -1,0 +1,25 @@
+.home{
+    background-color: #1abc9c;
+   height: 90vh;
+   
+}
+.title{
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: center;
+
+}
+.title .layer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#home .left,.right{
+    width: 50%;
+    height: 5px;
+}
+.title i{
+    padding: 10px;
+    font-size: 12px;
+}

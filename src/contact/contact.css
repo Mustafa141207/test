@@ -1,0 +1,8 @@
+input {
+    margin: 20px !important;
+}
+
+#btn {
+    background-color: #1abc9c;
+    color: white;
+}
